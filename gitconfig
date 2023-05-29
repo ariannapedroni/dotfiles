@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aripedroni97@gmail.com
+	name = Arianna Pedroni
